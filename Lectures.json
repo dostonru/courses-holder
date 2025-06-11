@@ -1,0 +1,104 @@
+{
+  "lectures": [
+    {
+      "id": 11,
+      "name": "3D Animation Basics",
+      "category": "Design",
+      "price": 500,
+      "rating": 4.3,
+      "duration": 110,
+      "followers": "4k",
+      "image": "https://picsum.photos/200/150"
+    },
+    {
+      "id": 12,
+      "name": "Social Media Strategy",
+      "category": "Marketing",
+      "price": 420,
+      "rating": 4.6,
+      "duration": 95,
+      "followers": "8k",
+      "image": "https://picsum.photos/200/150"
+    },
+    {
+      "id": 13,
+      "name": "React Native Bootcamp",
+      "category": "Development",
+      "price": 870,
+      "rating": 4.8,
+      "duration": 145,
+      "followers": "13k",
+      "image": "https://picsum.photos/200/150"
+    },
+    {
+      "id": 14,
+      "name": "User Research & Testing",
+      "category": "UX/UI",
+      "price": 700,
+      "rating": 4.5,
+      "duration": 120,
+      "followers": "7k",
+      "image": "https://picsum.photos/200/150"
+    },
+    {
+      "id": 15,
+      "name": "Data Visualization with Tableau",
+      "category": "Data",
+      "price": 780,
+      "rating": 4.7,
+      "duration": 150,
+      "followers": "9k",
+      "image": "https://picsum.photos/200/150"
+    },
+    {
+      "id": 16,
+      "name": "SEO Optimization Crash Course",
+      "category": "Marketing",
+      "price": 320,
+      "rating": 4.6,
+      "duration": 85,
+      "followers": "6k",
+      "image": "https://picsum.photos/200/150"
+    },
+    {
+      "id": 17,
+      "name": "Backend with Node.js",
+      "category": "Development",
+      "price": 920,
+      "rating": 4.9,
+      "duration": 155,
+      "followers": "12k",
+      "image": "https://picsum.photos/200/150"
+    },
+    {
+      "id": 18,
+      "name": "Brand Identity & Logo Design",
+      "category": "Design",
+      "price": 640,
+      "rating": 4.5,
+      "duration": 105,
+      "followers": "6k",
+      "image": "https://picsum.photos/200/150"
+    },
+    {
+      "id": 19,
+      "name": "Figma for Beginners",
+      "category": "UX/UI",
+      "price": 500,
+      "rating": 4.4,
+      "duration": 95,
+      "followers": "5k",
+      "image": "https://picsum.photos/200/150"
+    },
+    {
+      "id": 20,
+      "name": "Intro to Machine Learning",
+      "category": "Data",
+      "price": 900,
+      "rating": 4.8,
+      "duration": 165,
+      "followers": "10k",
+      "image": "https://picsum.photos/200/150"
+    }
+  ]
+}

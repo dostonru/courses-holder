@@ -1,0 +1,104 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "name": "UX/UI Designer",
+      "category": "UX/UI",
+      "price": 800,
+      "rating": 4.7,
+      "duration": 147,
+      "followers": "10k",
+      "image": "https://picsum.photos/200/150"
+    },
+    {
+      "id": 2,
+      "name": "SMM & Marketing",
+      "category": "Marketing",
+      "price": 400,
+      "rating": 4.9,
+      "duration": 125,
+      "followers": "9k",
+      "image": "https://picsum.photos/200/150"
+    },
+    {
+      "id": 3,
+      "name": "Frontend Developer",
+      "category": "Development",
+      "price": 950,
+      "rating": 4.8,
+      "duration": 160,
+      "followers": "12k",
+      "image": "https://picsum.photos/200/150"
+    },
+    {
+      "id": 4,
+      "name": "Graphic Design Masterclass",
+      "category": "Design",
+      "price": 600,
+      "rating": 4.6,
+      "duration": 140,
+      "followers": "8k",
+      "image": "https://picsum.photos/200/150"
+    },
+    {
+      "id": 5,
+      "name": "Digital Marketing 101",
+      "category": "Marketing",
+      "price": 300,
+      "rating": 4.5,
+      "duration": 100,
+      "followers": "7k",
+      "image": "https://picsum.photos/200/150"
+    },
+    {
+      "id": 6,
+      "name": "Advanced JavaScript",
+      "category": "Development",
+      "price": 700,
+      "rating": 4.9,
+      "duration": 135,
+      "followers": "11k",
+      "image": "https://picsum.photos/200/150"
+    },
+    {
+      "id": 7,
+      "name": "Python for Data Science",
+      "category": "Data",
+      "price": 850,
+      "rating": 4.8,
+      "duration": 180,
+      "followers": "15k",
+      "image": "https://picsum.photos/200/150"
+    },
+    {
+      "id": 8,
+      "name": "Product Design Essentials",
+      "category": "UX/UI",
+      "price": 750,
+      "rating": 4.6,
+      "duration": 130,
+      "followers": "6k",
+      "image": "https://picsum.photos/200/150"
+    },
+    {
+      "id": 9,
+      "name": "Email Marketing Mastery",
+      "category": "Marketing",
+      "price": 350,
+      "rating": 4.4,
+      "duration": 90,
+      "followers": "5k",
+      "image": "https://picsum.photos/200/150"
+    },
+    {
+      "id": 10,
+      "name": "Mobile App Development",
+      "category": "Development",
+      "price": 1000,
+      "rating": 4.7,
+      "duration": 170,
+      "followers": "14k",
+      "image": "https://picsum.photos/200/150"
+    }
+  ]
+}
