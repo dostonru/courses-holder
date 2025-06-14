@@ -8,7 +8,7 @@
       "rating": 4.3,
       "duration": 110,
       "followers": "4k",
-      "image": "https://picsum.photos/200/150"
+      "image": "https://temporaryproject.netlify.app/public/im00011.png"
     },
     {
       "id": 12,
@@ -18,7 +18,7 @@
       "rating": 4.6,
       "duration": 95,
       "followers": "8k",
-      "image": "https://picsum.photos/200/150"
+      "image": "https://temporaryproject.netlify.app/public/im00010.png"
     },
     {
       "id": 13,
@@ -28,7 +28,7 @@
       "rating": 4.8,
       "duration": 145,
       "followers": "13k",
-      "image": "https://picsum.photos/200/150"
+      "image": "https://temporaryproject.netlify.app/public/im00009.png"
     },
     {
       "id": 14,
@@ -38,7 +38,7 @@
       "rating": 4.5,
       "duration": 120,
       "followers": "7k",
-      "image": "https://picsum.photos/200/150"
+      "image": "https://temporaryproject.netlify.app/public/im00008.png"
     },
     {
       "id": 15,
@@ -48,7 +48,7 @@
       "rating": 4.7,
       "duration": 150,
       "followers": "9k",
-      "image": "https://picsum.photos/200/150"
+      "image": "https://temporaryproject.netlify.app/public/im00007.png"
     },
     {
       "id": 16,
@@ -58,7 +58,7 @@
       "rating": 4.6,
       "duration": 85,
       "followers": "6k",
-      "image": "https://picsum.photos/200/150"
+      "image": "https://temporaryproject.netlify.app/public/im00006.png"
     },
     {
       "id": 17,
@@ -68,7 +68,7 @@
       "rating": 4.9,
       "duration": 155,
       "followers": "12k",
-      "image": "https://picsum.photos/200/150"
+      "image": "https://temporaryproject.netlify.app/public/im00005.png"
     },
     {
       "id": 18,
@@ -78,7 +78,7 @@
       "rating": 4.5,
       "duration": 105,
       "followers": "6k",
-      "image": "https://picsum.photos/200/150"
+      "image": "https://temporaryproject.netlify.app/public/im00004.png"
     },
     {
       "id": 19,
@@ -88,7 +88,7 @@
       "rating": 4.4,
       "duration": 95,
       "followers": "5k",
-      "image": "https://picsum.photos/200/150"
+      "image": "https://temporaryproject.netlify.app/public/im00003.png"
     },
     {
       "id": 20,
@@ -98,7 +98,7 @@
       "rating": 4.8,
       "duration": 165,
       "followers": "10k",
-      "image": "https://picsum.photos/200/150"
+      "image": "https://temporaryproject.netlify.app/public/im00002.png"
     }
   ]
 }
